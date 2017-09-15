@@ -1,7 +1,7 @@
 # OS-Deadlock-Conditions
 Create a Deadlock Scenario and Solve the Deadlock via 4 Main Solutions
 
-4 Coniditons are needed for Deadlock to occur "consistently":
+4 Conditions are needed for Deadlock to occur "consistently":
 1.) Mutual Exclusion - Threads/Processes must claim exclusive control of the 
 resources they require.
 - The Solution is to prevent or have no Mutual Exclusion. So threads have 
